@@ -284,34 +284,6 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 553944488}
     m_Modifications:
-    - target: {fileID: 984825139, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
-      propertyPath: _rotationAxis.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 984825139, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
-      propertyPath: _rotationAxis.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 984825139, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
-      propertyPath: _stateAngles.Array.size
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 984825139, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
-      propertyPath: _stateAngles.Array.data[1]
-      value: 53.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 984825139, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
-      propertyPath: _stateAngles.Array.data[2]
-      value: 144.95
-      objectReference: {fileID: 0}
-    - target: {fileID: 984825139, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
-      propertyPath: _stateAngles.Array.data[3]
-      value: 177.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 984825139, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
-      propertyPath: _stateAngles.Array.data[4]
-      value: 303.3
-      objectReference: {fileID: 0}
     - target: {fileID: 7090421364637237393, guid: 8ca67bc2281296e4f81f335829e17dcf, type: 3}
       propertyPath: m_Name
       value: MultimetrView

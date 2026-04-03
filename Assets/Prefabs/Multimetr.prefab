@@ -434,15 +434,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _displayText: {fileID: 8131749811993000769}
+  _animatedDisplay: 1
   _regulatorTransform: {fileID: 629145773867843921}
-  rotationAxis: {x: 0, y: 0, z: 1}
-  stateAngles:
+  _rotationAxis: {x: 0, y: 0, z: 1}
+  _stateAngles:
   - 0
   - 53.8
   - 144.95
   - 177.8
   - 303.3
-  rotationDuration: 1
   _renderer: {fileID: 6056805392942946168}
   _defaultMaterial: {fileID: 2100000, guid: 51df53824bbbec549b28f30b0553117e, type: 2}
   _highlightedMaterial: {fileID: 2100000, guid: 0752e83276d6f9249803cf30fa53d9bc, type: 2}
